@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abanop Mousa</h1>
 <h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Cyber+security+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Cyber+security+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Abanop Mousa</h1>
 <h3 align="center">Whether it's investigating a potential security breach or developing new protocols to prevent cyber attacks, I am always eager to take on new challenges in the world of penetration testing, DFIR and cybersecurity. Also, apply my expertise to design and implement robust security solutions that protect organizational assets while staying ahead of emerging threats.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abanop-mousa&label=Profile%20views&color=0e75b6&style=flat" alt="abanop-mousa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanop-mousa" alt="abanop-mousa" /></a> </p>
+
 - 📫 How to reach me **abanopmousa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +18,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/espresso"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="espresso" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanop-mousa&show_icons=true&locale=en&layout=compact" alt="abanop-mousa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abanop-mousa&show_icons=true&locale=en" alt="abanop-mousa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abanop-mousa&" alt="abanop-mousa" /></p>

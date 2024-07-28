@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abanop Mousa</h1>
 <h3 align="center">Whether it's investigating a potential security breach or developing new protocols to prevent cyber attacks, I am always eager to take on new challenges in the world of penetration testing, DFIR and cybersecurity. Also, apply my expertise to design and implement robust security solutions that protect organizational assets while staying ahead of emerging threats.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abanop-mousa&label=Profile%20views&color=0e75b6&style=flat" alt="abanop-mousa" /> </p>
-
 - 📫 How to reach me **abanopmousa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
